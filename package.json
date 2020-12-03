@@ -1,0 +1,23 @@
+{
+  "name": "excel-js",
+  "version": "1.0.0",
+  "description": "Excel clone on pure javascript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalmoth/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "digitalmoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalmoth/excel-js/issues"
+  },
+  "homepage": "https://github.com/digitalmoth/excel-js#readme"
+}
